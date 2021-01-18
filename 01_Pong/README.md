@@ -4,7 +4,7 @@ This file contains instructions for quickly opening and using this project, comp
 # Quick Launch
 To quickly run the game with minimal setup follow the directions below. 
 
-1. Download Pong.zip from BBlearn or [Github](https://github.com/countryBumpkin/CS383_SoftwareEngineering_Projects/Pong) 
+1. Download Pong.zip from BBlearn or [Github](https://github.com/countryBumpkin/CS383_SoftwareEngineering_Projects/tree/main/01_Pong) 
 2. After downloading, extract the zip folder. Inside you should find a build of the game at the top level of the project directory named **Pong.exe**. 
 3. Click this file to run the game.
 
@@ -12,7 +12,7 @@ To quickly run the game with minimal setup follow the directions below.
 ## Compiling Project Code
 If the executable included in the project files is incompatible with your system use the instructions below to compile and build the project for your system.
 
-1. Download Pong.zip from BBlearn or [Github](https://github.com/countryBumpkin/CS383_SoftwareEngineering_Projects/Pong) 
+1. Download Pong.zip from BBlearn or [Github](https://github.com/countryBumpkin/CS383_SoftwareEngineering_Projects/tree/main/01_Pong) 
 2. After downloading, extract the zip folder. 
 3. Open Unity or download it from [here](https://unity3d.com/get-unity/download).
 	* if installing for the first time: download [Unity Hub](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe), activate a new individual license, and install Unity Engine **2020.2.1f1** or newer. 
